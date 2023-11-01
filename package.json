@@ -1,0 +1,14 @@
+{
+  "name": "message_streaming_kafka",
+  "version": "1.0.0",
+  "description": "Practice Repository for kafka event store and message streaming.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
